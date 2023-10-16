@@ -19,9 +19,10 @@ The code is developed using python 3.8 on Windows 11. NVIDIA GPUs are needed.
 git clone https://github.com/SusanJJN/AuroraSegmentation.git
 ```
 2. Install dependencies:
-For innotate_by_SAM.ipynb, you need to first install dependencies according to the instructions of Segment Anything (https://github.com/facebookresearch/segment-anything).
 
-For HrSeg, you need to first install dependencies according to the instructions of mmsegmentation (https://github.com/open-mmlab/mmsegmentation).
+  For innotate_by_SAM.ipynb, you need to first install dependencies according to the instructions of Segment Anything (https://github.com/facebookresearch/segment-anything).
+
+  For HrSeg, you need to first install dependencies according to the instructions of mmsegmentation (https://github.com/open-mmlab/mmsegmentation).
 
 # Data preparation
 You can also download all the [original images for training](https://github.com/SusanJJN/AuroraSegmentation/releases/download/v1.0/training_images.rar).
