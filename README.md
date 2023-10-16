@@ -22,16 +22,16 @@ For innotate_by_SAM.ipynb, you need to first install dependencies according to t
 For HrSeg, you need to first install dependencies according to the instructions of mmsegmentation (https://github.com/open-mmlab/mmsegmentation).
 
 # Data preparation
-You can also download all the original images for [training]().
+You can also download all the [original images for training](https://github.com/SusanJJN/AuroraSegmentation/releases/download/v1.0/training_images.rar).
 
 # Innotation
 You can follow the instructions in innotate_by_SAM.ipynb. 
 The checkpoint used in the notebook can be downloaded in SAM repository.
-The [innotated image]() can be downloaded as well.
+The [innotated image](https://github.com/SusanJJN/AuroraSegmentation/releases/download/v1.0/innotated_images.rar) can be downloaded as well.
 
 # Training and Inference
 1. Split the training set, validation set and test set, and respectively put them in /HrSeg/data/Aurora-dataset.
 2. The process of training and inference are shown in /HrSeg/training.ipynb and /HrSeg/inference.ipynb.
 
 # Pretrained model
-You can download the [pretrained model]() here.
+You can download the [pretrained model](https://github.com/SusanJJN/AuroraSegmentation/releases/download/v1.0/checkpoint_hrseg.pth) here.
