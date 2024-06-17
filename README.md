@@ -1,6 +1,6 @@
 # AuroraSegmentation
 
-This is the implementation of A Statistical Analysis of Aurora Evolution during the Substorms using Deep Learning Models. 
+This is the implementation of A Superposed Epoch Analysis of Auroral oval Coverage During Substorms Using Deep Learning-Based Segmentation Models. 
 
 This repository includes the codes of two contents, which match the innotation stage and training stage.
 
